@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yoga APP</string>
+    <string-array name="Session">
+        <item></item>
+        <item>Yoga Studio A</item>
+        <item>Yoga Studio B</item>
+        <item>Yoga Studio C</item>
+    </string-array>
+    <string-array name="Teacher">
+        <item></item>
+        <item>John Doe</item>
+        <item>Jane Smith</item>
+        <item>Emily Johnson</item>
+    </string-array>
+</resources>
